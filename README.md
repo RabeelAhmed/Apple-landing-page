@@ -1,3 +1,5 @@
+![Alt text](/public/landing-page.png)
+
 <<<<<<< HEAD
 Apple 3D Landing Page
 This project is a 3D landing page for Apple products, created as part of a learning journey in 3D web development. The page features a 3D model of a MacBook Pro, interactive scrolling effects, and a design inspired by Apple's aesthetics. It was built using React, Three.js, React Three Fiber, Tailwind CSS, and WebGPU.
